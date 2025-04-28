@@ -1,2 +1,2 @@
 # kamilla
- The very own page of Kamilla Birő
+ The very own page of Kamilla Biró
