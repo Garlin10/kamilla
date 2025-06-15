@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background: #fcefe3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #5c4033;
+}
+
+.dog-container {
+  margin: 20px auto;
+}
+
+#dog {
+  width: 250px;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+#dog:active {
+  transform: scale(1.05);
+}
+
+#counter {
+  font-size: 1.5rem;
+  color: #333;
+}
